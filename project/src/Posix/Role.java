@@ -1,8 +1,8 @@
 package Posix;
 
 public enum Role {
-	//VOTER,
-	//LEADER,
+	VOTER,
+	LEADER,
 	PROPOSER,
 	ACCEPTOR,
 	LEARNER;
