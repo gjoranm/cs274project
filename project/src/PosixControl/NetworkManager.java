@@ -1,5 +1,12 @@
+
 package PosixControl;
 
-public class NetworkManager {
+import java.util.ArrayList;
 
+import Posix.Node;
+
+
+
+public class NetworkManager {
+	private ArrayList<Node> nodes;
 }
